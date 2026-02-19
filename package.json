@@ -1,5 +1,5 @@
 {
-    "name": "@meongHost/baileys",
+    "name": "@otpworld/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By K",
     "keywords": [
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/@meonghost/baileys",
+    "homepage": "https://www.npmjs.com/package/@otpworld/baileys",
     "repository": {
-        "url": "https://www.npmjs.com/package/@meomgHost/baileys"
+        "url": "https://www.npmjs.com/package/@otpworld/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
